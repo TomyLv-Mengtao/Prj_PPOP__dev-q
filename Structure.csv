@@ -1,0 +1,26 @@
+﻿Structure_ID,Structure_Name,Full Name
+001,Conveyor,
+002,Conveyor PLC,Conveyor Programmable Logic Controller
+003,PCB,Printed Circuit Board
+004,RFID Scanner,Radio Frequency Identification Scanner
+005,Edge Linker,
+006,Edge Computer,
+007,PPOP Machine,Precise Picked-up Object Positioning Machine
+008,PPOP PLC,Precise Picked-up Object Positionin Programmable Logic Controller
+009,Robot arm,
+010,Emergency button,
+011,Teach pendant,
+012,Robot table (PPOP control box?),
+013,Manual/Auto Mode switch ,
+014,Run/Stop program switch ,
+015,"Run/Stop switch
+(Not in use) ",
+016,PLC On/ PLC Off switch ,Programmable Logic Controller On/ Off switch 
+017,Jog wheel ,
+018,Touchscreen,
+019,Safety button,
+020,Conveyor module control panel,
+021,On/Off switch ,
+022,Reset button ,
+023,DMV,Digital Media Viewer,
+024,Line Camera,
