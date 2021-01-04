@@ -2,19 +2,66 @@
 001,Conveyor PLC,Conveyor,Control
 002,Conveyor,PCB,Carry
 003,PPOP PLC,PPOP Machine,Control
-004,Teach pendant,Emergency button,Have
-005,Robot table (PPOP control box?),Emergency button,Have
-006,Robot table (PPOP control box?),Manual/Auto Mode switch ,Have
-007,Robot table (PPOP control box?),Run/Stop program switch ,Have
+004,Teach pendant,Emergency button,Contain
+005,Robot table (PPOP control box?),Emergency button,Contain
+006,Robot table (PPOP control box?),Manual/Auto Mode switch ,Contain
+007,Robot table (PPOP control box?),Run/Stop program switch ,Contain
 008,Robot table (PPOP control box?),"Run/Stop switch
-(Not in use) ",Have
-009,Robot table (PPOP control box?),PLC On/ PLC Off switch ,Have
-010,Teach pendant,Jog wheel ,Have
-011,Teach pendant,Touchscreen,Have
-012,Teach pendant,Safety button,Have
+(Not in use) ",Contain
+009,Robot table (PPOP control box?),PLC On/ PLC Off switch ,Contain
+010,Teach pendant,Jog wheel ,Contain
+011,Teach pendant,Touchscreen,Contain
+012,Teach pendant,Safety button,Contain
 013,Conveyor module control panel,Conveyor,Control
 014,Conveyor module control panel,Conveyor PLC,Invoke
-015,Conveyor module control panel,Touchscreen,Have
-016,Conveyor module control panel,On/Off switch ,Have
-017,Conveyor module control panel,Emergency button,Have
-018,Conveyor module control panel,Reset button ,Have
+015,Conveyor module control panel,Touchscreen,Contain
+016,Conveyor module control panel,On/Off switch ,Contain
+017,Conveyor module control panel,Emergency button,Contain
+018,Conveyor module control panel,Reset button ,Contain
+019,P-POP Machine,P-POP Module,Contain
+020,P-POP Machine,Conveyor,Contain
+021,P-POP Machine,Component Feeder,Contain
+022,P-POP Machine,E-Box,Contain
+023,P-POP Machine,4-axis Robot Arm,Contain
+024,P-POP Machine,PC,Contain
+025,P-POP Module,Line Camera,Contain
+026,P-POP Module,Gripper,Contain
+027,P-POP Module,Line Laser,Contain
+028,P-POP Module,Rotator,Contain
+029,Conveyor,Position Sensor,Contain
+030,Conveyor,Step Motor,Contain
+031,Conveyor,Servo Motor,Contain
+032,Conveyor,Stopper,Contain
+033,Conveyor,Lifter,Contain
+034,Component Feeder,Sensor,Contain
+035,Component Feeder,Servo Motor,Contain
+036,E-Box,Robot Arm Controller,Contain
+037,Robot Arm Controller,4-axis Robot Arm,Control
+038,E-Box,Machine Vision,Contain
+039,Machine Vision,Light Controller,Contain
+040,Machine Vision,Light,Contain
+041,Machine Vision,DMV,Contain
+042,E-Box,Hub,Contain
+043,E-Box,PLC AHCPU531,Contain
+044,E-Box,PLC DVP12SA2,Contain
+045,E-Box,Line Laser Controller,Contain
+046,E-Box,Air Regulator,Contain
+047,E-Box,Valve,Contain
+048,E-Box,Servo Motor Driver,Contain
+049,E-Box,Step Motor Driver,Contain
+050,E-Box,Power,Contain
+051,Line Laser Controller,Line Laser,Control
+052,Line Camera,PC,GigE
+053,Robot Arm Controller,Line Camera,Connect
+054,PLC DVP12SA2,Conveyor,Bi-direction I/O
+055,PLC DVP12SA2,Component Feeder,Bi-direction I/O
+056,Robot Arm Controller,Light Controller,Connect
+057,Light Controller,Light,Control
+058,Robot Arm Controller,Hub,Modbus TCP
+059,Robot Arm Controller,Valve,Connect
+060,Hub,PLC AHCPU531,Modbus TCP
+061,Hub,PC,Modbus TCP
+062,PLC AHCPU531,PLC DVP12SA2,Bi-direction I/O
+063,PLC DVP12SA2,Valve,I/O
+064,PLC DVP12SA2,Servo Motor Driver,Bi-direction I/O
+065,PLC DVP12SA2,Step Motor Driver,I/O

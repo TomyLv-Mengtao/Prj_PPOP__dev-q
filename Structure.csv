@@ -1,26 +1,53 @@
-﻿Structure_ID,Structure_Name,Full Name
-001,Conveyor,
-002,Conveyor PLC,Conveyor Programmable Logic Controller
-003,PCB,Printed Circuit Board
-004,RFID Scanner,Radio Frequency Identification Scanner
-005,Edge Linker,
-006,Edge Computer,
-007,PPOP Machine,Precise Picked-up Object Positioning Machine
-008,PPOP PLC,Precise Picked-up Object Positionin Programmable Logic Controller
-009,Robot arm,
-010,Emergency button,
-011,Teach pendant,
-012,Robot table (PPOP control box?),
-013,Manual/Auto Mode switch ,
-014,Run/Stop program switch ,
+﻿Structure_ID,Structure_Name,Full Name,Drive
+001,Conveyor,,
+002,Conveyor PLC,Conveyor Programmable Logic Controller,
+003,PCB,Printed Circuit Board,
+004,RFID Scanner,Radio Frequency Identification Scanner,
+005,Edge Linker,,
+006,Edge Computer,,
+007,PPOP Machine,Precise Picked-up Object Positioning Machine,
+008,PPOP PLC,Precise Picked-up Object Positionin Programmable Logic Controller,
+009,Robot arm,,
+010,Emergency button,,
+011,Teach pendant,,
+012,Robot table (PPOP control box?),,
+013,Manual/Auto Mode switch ,,
+014,Run/Stop program switch ,,
 015,"Run/Stop switch
-(Not in use) ",
-016,PLC On/ PLC Off switch ,Programmable Logic Controller On/ Off switch 
-017,Jog wheel ,
-018,Touchscreen,
-019,Safety button,
-020,Conveyor module control panel,
-021,On/Off switch ,
-022,Reset button ,
-023,DMV,Digital Media Viewer,
-024,Line Camera,
+(Not in use) ",,
+016,PLC On/ PLC Off switch ,Programmable Logic Controller On/ Off switch ,
+017,Jog wheel ,,
+018,Touchscreen,,
+019,Safety button,,
+020,Conveyor module control panel,,
+021,On/Off switch ,,
+022,Reset button ,,
+023,DMV,Digital Media Viewer,DC24V
+024,P-POP Module,Precise Picked-up Object Positioning Module,
+025,Line Camera,,DC24V
+026,Gripper,,Air
+027,Line Laser,,DC24V
+028,Rotator,,Air
+029,PC,Personal Computer,AC110V
+030,Position Sensor,,DC24V
+031,Step Motor,,DC24V
+032,Servo Motor,,AC220V
+033,Stopper,,Air
+034,Lifter,,Air
+035,Component Feeder,,
+036,Sensor,,DC24V
+037,4-axis Robot Arm,,
+038,E-Box,,
+039,Robot Arm Controller,,
+040,Hub,,DC24V
+041,PLC AHCPU531,Programmable Logic Controller AHCPU531,AC220V
+042,PLC DVP12SA2,Programmable Logic Controller DVP12SA2,DC24V
+043,Line Laser Controller,,DC24V
+044,Air Regulator,,
+045,Machine Vision,,
+046,Light Controller,,
+047,Light,,
+048,Valve,,DC24V
+049,Servo Motor Driver,,DC24V
+050,Step Motor Driver,,AC220V
+051,Power,,
