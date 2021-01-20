@@ -8,3 +8,4 @@ Gripper,Place Up,Accomplish
 Gripper,Place Down,Accomplish
 Gripper,Pick Down,Accomplish
 Gripper,Return Down,Accomplish
+Conveyor,Wait,StructureHasStatus
