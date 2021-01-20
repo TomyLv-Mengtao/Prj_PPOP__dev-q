@@ -1,0 +1,46 @@
+﻿Robot Arm Point,Behavior_Name,Relation
+1006,Feeder Up,Control
+1007,Feeder Down,Control
+1008,Detect,Control
+1009,On the Fly First Point,Control
+1010,On the Fly End Point,Control
+1011,Place Up,Control
+1012,Place Down,Control
+1013,Pick Down,Control
+1014,Return Down,Control
+1016,Feeder Up,Control
+1017,Feeder Down,Control
+1018,Detect,Control
+1019,On the Fly First Point,Control
+1020,On the Fly End Point,Control
+1021,Place Up,Control
+1022,Place Down,Control
+1023,Pick Down,Control
+1024,Return Down,Control
+1026,Feeder Up,Control
+1027,Feeder Down,Control
+1028,Detect,Control
+1029,On the Fly First Point,Control
+1030,On the Fly End Point,Control
+1031,Place Up,Control
+1032,Place Down,Control
+1033,Pick Down,Control
+1034,Return Down,Control
+1036,Feeder Up,Control
+1037,Feeder Down,Control
+1038,Detect,Control
+1039,On the Fly First Point,Control
+1040,On the Fly End Point,Control
+1041,Place Up,Control
+1042,Place Down,Control
+1043,Pick Down,Control
+1044,Return Down,Control
+1046,Feeder Up,Control
+1047,Feeder Down,Control
+1048,Detect,Control
+1049,On the Fly First Point,Control
+1050,On the Fly End Point,Control
+1051,Place Up,Control
+1052,Place Down,Control
+1053,Pick Down,Control
+1054,Return Down,Control
