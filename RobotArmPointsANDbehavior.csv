@@ -1,4 +1,4 @@
-﻿Robot Arm Point,Behavior_Name,Relation
+﻿Robot_Arm_Point,Behavior_Name,Relation
 1006,Feeder Up,Control
 1007,Feeder Down,Control
 1008,Detect,Control
