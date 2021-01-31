@@ -1,0 +1,4 @@
+﻿Process,Decision
+Read DI_Value,Case 0 (Do nothing)
+Move to onfly end position,If PPOP_Demo pass
+Idle above NG box,If RL program continue button is press
