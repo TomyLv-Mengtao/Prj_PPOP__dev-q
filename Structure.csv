@@ -1,0 +1,45 @@
+﻿Structure_Name,Structure_Full_Name,Drive
+Conveyor,,
+Conveyor PLC,Conveyor Programmable Logic Controller,
+RFID Scanner,Radio Frequency Identification Scanner,
+PPOP Machine,Precise Picked-up Object Positioning Machine,
+PPOP PLC,Precise Picked-up Object Positioning Programmable Logic Controller,
+Robot Arm,,
+Emergency button,,
+Teach pendant,,
+Robot table,,
+Manual/Auto Mode switch ,,
+Run/Stop program switch ,,
+"Run/Stop switch
+(Not in use) ",,
+PLC On/ PLC Off switch ,Programmable Logic Controller On/ Off switch ,
+Jog wheel ,,
+Touchscreen,,
+Safety Button,,
+Conveyor module control panel,,
+On/Off switch ,,
+Reset button ,,
+P-POP Module,Precise Picked-up Object Positioning Module,
+Line Camera,,DC24V
+Gripper,,Air
+Line Laser,,DC24V
+Rotator,,Air
+PC,Personal Computer,AC220V
+Position Sensor,,DC24V
+Step Motor,,DC24V
+Servo Motor,,AC220V
+Stopper,,Air
+Lifter,,Air
+4-axis Robot Arm,,
+E-Box,,
+Robot Arm Controller,,
+Hub,,DC24V
+PLC DVP12SA2,Programmable Logic Controller DVP12SA2,DC24V
+Air Regulator,,
+Machine Vision,,
+Light Controller,,
+Light,,
+Valve,,DC24V
+Servo Motor Driver,,DC24V
+Step Motor Driver,,AC220V
+Power,,
