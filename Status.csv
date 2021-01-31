@@ -1,0 +1,5 @@
+﻿Status_Name,Status_Decription
+Moving,Motor starts to move the conveyor
+Waiting,Conveyor Stopped and waiting
+Gripping Component,Gripper picked up component and not yet inserted
+Releasing,Gripped empty without a component holding
