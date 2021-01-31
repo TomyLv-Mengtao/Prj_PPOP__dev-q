@@ -1,0 +1,23 @@
+﻿Operation_Name,Structure_Name,Relation
+Start conveyor,Conveyor module control panel,Run
+Start conveyor,Conveyor,Start
+Start conveyor,Conveyor PLC,Invoke
+Switch on machine,On/Off switch ,Run
+Adjust speed,Manual/Auto Mode switch ,Run
+Login computer,PC,Start
+Start DRAstudio,PC,Run
+Login DRAstudio,PC,Run
+Connect Ethernet,PC,Run
+Project,PC,Run
+Change Path,PC,Run
+New folder,PC,Run
+Apply bypass file,PC,Run
+RL,PC,Run
+Open PPOPDemo,PC,Run
+Analysis tab,PC,Run
+Set Reference,PC,Run
+Select golden image,PC,Run
+Link line camera,PC,Run
+Run program,PC,Run
+Emergency shutdown,Emergency button,Start
+Stop program,Run/Stop program switch ,Start
