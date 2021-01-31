@@ -1,0 +1,13 @@
+﻿Decision,Process,Relation
+Case 0 (Do nothing),Move to safe/NG up position and do nothing,Positive
+Case 0 (Do nothing),Case 2 (component pick up),Negative
+Case 2 (component pick up),DO1=ON & DO2=OFF,Positive
+Case 2 (component pick up),Case 3 (onfly funciton),Negative
+Case 3 (onfly funciton),Move to onfly start position,Positive
+Case 3 (onfly funciton),Case 4 (component plug in),Negative
+If PPOP_Demo pass,Move to NG box to throw the faulty component,Positive
+If PPOP_Demo pass,Case 4 (component plug in),Negative
+If RL program continue button is press,Case 2 (component pick up),Positive
+If RL program continue button is press,Idle above NG box,Negative
+Case 4 (component plug in),Move to above plug in position,Positive
+Case 4 (component plug in),Warning,Negative
