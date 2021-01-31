@@ -65,3 +65,4 @@ PC,Hub,Modbus TCP
 PLC DVP12SA2,Valve,Control
 PLC DVP12SA2,Servo Motor Driver,Control
 PLC DVP12SA2,Step Motor Driver,Control
+4-axis Robot Arm,P-POP Module,Hold
