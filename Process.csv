@@ -18,8 +18,9 @@
 17,Idle above NG box
 18,Move to above plug in position
 19,Move to plug in position with reference to PCB holes position
-20,DO1=ON & DO2=OFF(2)
-21,Open Gripper(2)
-22,DI3=ON & DI2=OFF(2)
-23,Move to above plug in position(2)
-24,PCB Leave
+20,Move to plug in position
+21,DO1=ON & DO2=OFF(2)
+22,Open Gripper(2)
+23,DI3=ON & DI2=OFF(2)
+24,Move to above plug in position(2)
+25,PCB Leave
