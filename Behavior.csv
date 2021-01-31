@@ -1,0 +1,13 @@
+﻿Behavior_Name,Behavior_Decription
+Feed Gripper,Gripper pick up component from the plate
+Detect,"Detect component, ready to execute OnFly Scanning"
+OnFly scanning,Scan the component to get image
+Place Component,Place component onto PCB
+Pick Down,The gripper pick up component when component is on the PCB
+Return Down,Put component back to the plate
+Carry PCB,Conveyor supports PCB and move
+Roll,Conveyor move driven by motor
+Stop,Conveyor stop to wait for the next order
+Lift,Conveyor lifted up to fix the lock the PCB
+Move,Robot Arm holds the PPOP Module to move
+Parameter Initialization,Use Teach Pendant or PC to set the Robot Ram points
