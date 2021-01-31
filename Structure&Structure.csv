@@ -1,0 +1,67 @@
+﻿Structure1,Structure2,Relation,Relation_Type
+Conveyor PLC,Conveyor,Control,StructureAndStructure
+PPOP PLC,PPOP Machine,Control,StructureAndStructure
+Teach pendant,Emergency button,Contain,StructureAndStructure
+Robot table ,Emergency button,Contain,StructureAndStructure
+Robot table ,Manual/Auto Mode switch ,Contain,StructureAndStructure
+Robot table ,Run/Stop program switch ,Contain,StructureAndStructure
+Robot table ,"Run/Stop switch
+(Not in use) ",Contain,StructureAndStructure
+Robot table ,PLC On/ PLC Off switch ,Contain,StructureAndStructure
+Teach pendant,Jog wheel ,Contain,StructureAndStructure
+Teach pendant,Touchscreen,Contain,StructureAndStructure
+Teach pendant,Safety button,Contain,StructureAndStructure
+Conveyor module control panel,Conveyor,Control,StructureAndStructure
+Conveyor module control panel,Conveyor PLC,Invoke,StructureAndStructure
+Conveyor module control panel,Touchscreen,Contain,StructureAndStructure
+Conveyor module control panel,On/Off switch ,Contain,StructureAndStructure
+Conveyor module control panel,Emergency button,Contain,StructureAndStructure
+Conveyor module control panel,Reset button ,Contain,StructureAndStructure
+P-POP Machine,P-POP Module,Contain,StructureAndStructure
+P-POP Machine,Conveyor,Contain,StructureAndStructure
+P-POP Machine,E-Box,Contain,StructureAndStructure
+P-POP Machine,4-axis Robot Arm,Contain,StructureAndStructure
+P-POP Machine,PC,Contain,StructureAndStructure
+Power,P-POP Module,Energy Supply,StructureAndStructure
+P-POP Module,Line Camera,Contain,StructureAndStructure
+Robot Arm Controller,Gripper,Control,StructureAndStructure
+Air Regulator,Gripper,Drive,StructureAndStructure
+P-POP Module,Gripper,Contain,StructureAndStructure
+P-POP Module,Line Laser,Contain,StructureAndStructure
+Robot Arm Controller,Rotator,Control,StructureAndStructure
+Air Regulator,Rotator,Drive,StructureAndStructure
+P-POP Module,Rotator,Contain,StructureAndStructure
+Power,Conveyor,Energy Supply,StructureAndStructure
+Conveyor,Position Sensor,Contain,StructureAndStructure
+Step Motor Driver,Step Motor,Drive,StructureAndStructure
+Conveyor,Step Motor,Contain,StructureAndStructure
+Servo Motor Driver,Servo Motor,Drive,StructureAndStructure
+Conveyor,Servo Motor,Contain,StructureAndStructure
+Conveyor,Stopper,Contain,StructureAndStructure
+Air Regulator,Lifter,Drive,StructureAndStructure
+Conveyor,Lifter,Contain,StructureAndStructure
+E-Box,Robot Arm Controller,Contain,StructureAndStructure
+Robot Arm Controller,4-axis Robot Arm,Control,StructureAndStructure
+E-Box,Machine Vision,Contain,StructureAndStructure
+Machine Vision,Light Controller,Contain,StructureAndStructure
+Machine Vision,Light,Contain,StructureAndStructure
+E-Box,Hub,Contain,StructureAndStructure
+E-Box,PLC DVP12SA2,Contain,StructureAndStructure
+E-Box,Air Regulator,Contain,StructureAndStructure
+E-Box,Valve,Contain,StructureAndStructure
+E-Box,Servo Motor Driver,Contain,StructureAndStructure
+E-Box,Step Motor Driver,Contain,StructureAndStructure
+E-Box,Power,Contain,StructureAndStructure
+Line Camera,PC,Send GigE,StructureAndStructure
+Robot Arm Controller,Line Camera,Control,StructureAndStructure
+PLC DVP12SA2,Conveyor,Control,StructureAndStructure
+Robot Arm Controller,Light Controller,Control,StructureAndStructure
+Light Controller,Light,Control,StructureAndStructure
+Robot Arm Controller,Hub,Modbus TCP,StructureAndStructure
+Hub,Robot Arm Controller,Modbus TCP,StructureAndStructure
+Robot Arm Controller,Valve,Control,StructureAndStructure
+Hub,PC,Modbus TCP,StructureAndStructure
+PC,Hub,Modbus TCP,StructureAndStructure
+PLC DVP12SA2,Valve,Control,StructureAndStructure
+PLC DVP12SA2,Servo Motor Driver,Control,StructureAndStructure
+PLC DVP12SA2,Step Motor Driver,Control,StructureAndStructure
