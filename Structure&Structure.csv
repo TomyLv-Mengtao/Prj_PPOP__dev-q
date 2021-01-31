@@ -1,0 +1,67 @@
+﻿Structure1,Structure2,Relation
+Conveyor PLC,Conveyor,Control
+PPOP PLC,PPOP Machine,Control
+Teach pendant,Emergency button,Contain
+Robot table ,Emergency button,Contain
+Robot table ,Manual/Auto Mode switch ,Contain
+Robot table ,Run/Stop program switch ,Contain
+Robot table ,"Run/Stop switch
+(Not in use) ",Contain
+Robot table ,PLC On/ PLC Off switch ,Contain
+Teach pendant,Jog wheel ,Contain
+Teach pendant,Touchscreen,Contain
+Teach pendant,Safety button,Contain
+Conveyor module control panel,Conveyor,Control
+Conveyor module control panel,Conveyor PLC,Invoke
+Conveyor module control panel,Touchscreen,Contain
+Conveyor module control panel,On/Off switch ,Contain
+Conveyor module control panel,Emergency button,Contain
+Conveyor module control panel,Reset button ,Contain
+P-POP Machine,P-POP Module,Contain
+P-POP Machine,Conveyor,Contain
+P-POP Machine,E-Box,Contain
+P-POP Machine,4-axis Robot Arm,Contain
+P-POP Machine,PC,Contain
+Power,P-POP Module,Energy Supply
+P-POP Module,Line Camera,Contain
+Robot Arm Controller,Gripper,Control
+Air Regulator,Gripper,Drive
+P-POP Module,Gripper,Contain
+P-POP Module,Line Laser,Contain
+Robot Arm Controller,Rotator,Control
+Air Regulator,Rotator,Drive
+P-POP Module,Rotator,Contain
+Power,Conveyor,Energy Supply
+Conveyor,Position Sensor,Contain
+Step Motor Driver,Step Motor,Drive
+Conveyor,Step Motor,Contain
+Servo Motor Driver,Servo Motor,Drive
+Conveyor,Servo Motor,Contain
+Conveyor,Stopper,Contain
+Air Regulator,Lifter,Drive
+Conveyor,Lifter,Contain
+E-Box,Robot Arm Controller,Contain
+Robot Arm Controller,4-axis Robot Arm,Control
+E-Box,Machine Vision,Contain
+Machine Vision,Light Controller,Contain
+Machine Vision,Light,Contain
+E-Box,Hub,Contain
+E-Box,PLC DVP12SA2,Contain
+E-Box,Air Regulator,Contain
+E-Box,Valve,Contain
+E-Box,Servo Motor Driver,Contain
+E-Box,Step Motor Driver,Contain
+E-Box,Power,Contain
+Line Camera,PC,Send GigE
+Robot Arm Controller,Line Camera,Control
+PLC DVP12SA2,Conveyor,Control
+Robot Arm Controller,Light Controller,Control
+Light Controller,Light,Control
+Robot Arm Controller,Hub,Modbus TCP
+Hub,Robot Arm Controller,Modbus TCP
+Robot Arm Controller,Valve,Control
+Hub,PC,Modbus TCP
+PC,Hub,Modbus TCP
+PLC DVP12SA2,Valve,Control
+PLC DVP12SA2,Servo Motor Driver,Control
+PLC DVP12SA2,Step Motor Driver,Control
