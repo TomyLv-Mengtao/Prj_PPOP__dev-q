@@ -1,0 +1,26 @@
+﻿Procedure_ID,Procedure_Name,Procudure_Description
+0,Start conveyor,Start the conveyor belt and make sure it is moving
+1,Switch on machine,Go to Ebox under the robot arm to switch on the machine
+2,Adjust speed,"Ensure that Manual/Auto switch is at Auto (for fast speed) and if slow speed is preferred, turn to ‘Manual’"
+3,Ensure components,Ensure that components are available on first row of tray. Ensure that no component is on gripper
+4,Login computer,"Log in to PPOP computer, contact machine owner for log-in credentials"
+5,Start DRAstudio,Double click DRAstudio on desktop
+6,Login DRAstudio,"Login DRAstudio, contact machine owner for log-in credentials"
+7,Connect Ethernet,"Click Ethernet. Click Connect. Once connected, the Ethernet symbol will turn GREEN. Make sure the Teach Pendant symbol is in ORANGE. If not, go to the physical teach pendant and press the Teach Pendant symbol to return control to DRAstudio. "
+8,Project,Go to click Project
+9,Change Path,"Change Path, Click Change Path again"
+10,New folder,Click ‘New folder’ folder. Then click OK
+11,Apply bypass file,Click Apply. Choose 061119bypassdmvdllreplaced file. Click OK
+12,RL,"Click RL on the left. The following programming codes should appear.If the programming codes did not appear or are different from above, click Project. Then choose 061119bypassdmvdllreplaced file from the top drag down window. Click Edit Project.
+Then click RL on the left again. If the programming codes tally with above, move on to next step"
+13,Open PPOPDemo,Open the PPOPDemo folder on desktop. Double click on P-PPOP_demo
+14,Analysis tab,"On the P-PPOP_demo user interface, click on the Analysis tab"
+15,Set Reference,Click the Set Reference button. Then click on the box under Reference Img
+16,Select golden image,Select the respective ‘golden image’ received from APGC team
+17,Link line camera,Click Start. Wait till the 2 IDLE boxes turn GREEN. (means that line camera is linked)
+18,Run program,Click Play to run the program
+19,Place palette,Place the palette onto the conveyor. Arrows on palette should be pointing towards flow direction.
+101,Safe from robot arm,"After putting the palette onto conveyor, ensure that no one is within 1m of the robot arm"
+102,Emergency shutdown,"In case of collision or any emergency, press the emergency button on the teach pendant or at the side of robot table immediately"
+203,Stop program,Stop the Program
+204,Place back components,Place back components onto first row of tray
