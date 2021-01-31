@@ -1,0 +1,6 @@
+﻿Decision_Name,Next_For_Positive,Next_For _Negative
+Case 0 (Do nothing),Move to safe/NG up position and do nothing,Case 2
+Case 2 (component pick up),DO1=ON & DO2=OFF,Case 3
+Case 3 (onfly funciton),Move to onfly start position,Case 4
+If PPOP_Demo pass,Case 4,Move to NG box to throw the faulty component
+If RL program continue button is press,Case 2,Idle above NG box
