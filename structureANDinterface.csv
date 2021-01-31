@@ -1,7 +1,0 @@
-﻿Structure,Interface,Quantity
-Gripper,Out,2
-Rotator,Out,2
-Line Camera,In,1
-Stopper,Out,3
-Lifter,Out,2
-Light Controller,In,1
