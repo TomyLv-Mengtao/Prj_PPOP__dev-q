@@ -1,4 +1,4 @@
-﻿Procedure_ID,Procedure_Name,Procudure_Description
+﻿Operation_ID,Operation_Name,Operation_Description
 0,Start conveyor,Start the conveyor belt and make sure it is moving
 1,Switch on machine,Go to Ebox under the robot arm to switch on the machine
 2,Adjust speed,"Ensure that Manual/Auto switch is at Auto (for fast speed) and if slow speed is preferred, turn to ‘Manual’"
