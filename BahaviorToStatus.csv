@@ -1,0 +1,7 @@
+﻿Behavior_Name,Status_Name,Relation
+Stop,Waiting,Transfer to
+Feed Gripper,Gripping Component,Transfer to
+Pick Down,Gripping Component,Transfer to
+Place Component,Releasing,Transfer to
+Return Down,Releasing,Transfer to
+Roll,Working,Transfer to
