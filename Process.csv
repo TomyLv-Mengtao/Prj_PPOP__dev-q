@@ -1,0 +1,25 @@
+﻿Process_ID,Process_Name
+1,Read DI_Value
+2,Move to safe/NG up position and do nothing
+3,"Check FeederCount, n. Proceed to pick object until row n."
+4,DO1=ON & DO2=OFF
+5,Open Gripper
+6,DI3=ON & DI2=OFF
+7,Move above component
+8,Move to component pick up position
+9,DO1=OFF & DO2=ON
+10,Close Gripper
+11,DI3=OFF & DI2=ON
+12,Move above component (2)
+13,Move to onfly start position
+14,Do onlfly function. DO10 to trigger Line camera
+15,Move to onfly end position
+16,Move to NG box to throw the faulty component
+17,Idle above NG box
+18,Move to above plug in position
+19,Move to plug in position with reference to PCB holes position
+20,DO1=ON & DO2=OFF(2)
+21,Open Gripper(2)
+22,DI3=ON & DI2=OFF(2)
+23,Move to above plug in position(2)
+24,PCB Leave
