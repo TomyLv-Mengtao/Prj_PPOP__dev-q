@@ -1,0 +1,17 @@
+﻿Structure_Name,Behavior_Name,Relation
+Gripper,Feed Gripper,Execute
+Line Laser,Detect,Execute
+Line Camera,OnFly scanning,Execute
+Gripper,Place Component,Execute
+Gripper,Pick Down,Execute
+Gripper,Return Down,Execute
+Conveyor,Stop,Execute
+Conveyor,Carry PCB,Execute
+Conveyor,Roll,Execute
+Servo Motor,Roll,Execute
+Conveyor,Lift,Execute
+Emergency button,Stop,Trigger
+Teach pendant,Parameter Initialization,Set
+Rotator,OnFly scanning,Change Angle
+Stopper,Stop,Execute
+Lifter,Lift,Execute
