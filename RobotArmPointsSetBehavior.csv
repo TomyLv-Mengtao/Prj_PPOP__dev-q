@@ -1,0 +1,19 @@
+﻿Robot_Arm_Point,Behavior_Name,Relation
+1006,Feed Gripper,Set Position
+1007,Feed Gripper,Set Position
+1008,Detect,Set Position
+1009,OnFly scanning,Set Position
+1010,OnFly scanning,Set Position
+1011,Place Component,Set Position
+1012,Place Component,Set Position
+1013,Pick Down,Set Position
+1014,Return Down,Set Position
+1016,Feed Gripper,Set Position
+1017,Feed Gripper,Set Position
+1018,Detect,Set Position
+1019,OnFly scanning,Set Position
+1020,OnFly scanning,Set Position
+1021,Place Component,Set Position
+1022,Place Component,Set Position
+1023,Pick Down,Set Position
+1024,Return Down,Set Position
